@@ -1,11 +1,18 @@
-## Olá, eu sou o Thiago 
 
-Analista de suporte técnico com mais de 6 anos de experiência, estudando para migrar para a área de DevOps.
+Olá, eu sou o Thiago 👋
+Trainee de Infraestrutura | Linux · DevOps · Infraestrutura para IA
 
-**Estudando agora:** Linux, Docker e Kubernetes
+🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
+☁️ Documento cada laboratório para que possa ser refeito do zero
+📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
+🎧 Experiência anterior como Analista de Suporte em ambiente Microsoft (Active Directory, Entra ID, MFA)
+🎓 Graduada em Análise e Desenvolvimento de Sistemas
+🔧 Projeto em destaque
+devops — laboratórios do trainee documentados passo a passo: instalação do SEI/SIP em Amazon Linux 2 (Apache, PHP, MySQL, Solr, Memcached, HTTPS), publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 
-**Experiência:** suporte a usuários, redes, gestão de contas e backup 
-
-**Também conheço:** Java, JavaScript, HTML, CSS e Python 
+🛠️ Tecnologias
+Infraestrutura: Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
+Ferramentas: Git · GitHub · Shell Script
+Desenvolvimento: Java · JavaScript · HTML · CSS · Python
 
 Contato: [LinkedIn](https://www.linkedin.com/in/thiagolacerdafreitas)
