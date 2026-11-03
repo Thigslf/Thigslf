@@ -19,7 +19,7 @@ troubleshooting de uma aplicação em 3 camadas e Docker na AWS.
 
 - Infraestrutura: Linux · SSH · AWS EC2 · Apache · Nginx · MySQL · PostgreSQL · Docker
 - Ferramentas: Git · GitHub · Shell Script
-- Desenvolvimento: Java · Python · JavaScript · PHP · HTML · CSS
+- Desenvolvimento: Java · Python · JavaScript · HTML · CSS
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/thiagolacerdafreitas)
