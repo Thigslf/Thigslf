@@ -1,31 +1,25 @@
 
-Olá, eu sou o Thiago 👋
+# Olá, eu sou o Thiago 👋
+
 Trainee de Infraestrutura | Linux · DevOps · Infraestrutura para IA
 
-🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
+- 🐧 Pratico administração de servidores Linux em laboratórios com VMs e na AWS
+- ☁️ Documento cada laboratório para que possa ser refeito do zero
+- 📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
+- 🎧 Experiência anterior como Analista de Suporte em ambiente Microsoft (Active Directory, Entra ID, MFA)
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
 
+## 🔧 Projeto em destaque
 
-☁️ Documento cada laboratório para que possa ser refeito do zero
+**[devops](https://github.com/alicevnava/devops)** — laboratórios do trainee documentados passo a passo:
+instalação do SEI/SIP em Amazon Linux 2 (Apache, PHP, MySQL, Solr, Memcached, HTTPS),
+publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 
+## 🛠️ Tecnologias
 
-📚 Me preparando para EXIN DevOps Professional, RHCSA e EXIN AI Foundation
+- *Infraestrutura:* Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
+- *Ferramentas:* Git · GitHub · Shell Script
+- *Desenvolvimento:* HTML · CSS · JavaScript · PHP
 
-
-🎧 Experiência anterior como Analista de Suporte em ambiente Microsoft (Active Directory, Entra ID, MFA)
-
-
-🎓 Graduada em Análise e Desenvolvimento de Sistemas
-
-🔧 Projeto em destaque
-devops — laboratórios do trainee documentados passo a passo: instalação do SEI/SIP em Amazon Linux 2 (Apache, PHP, MySQL, Solr, Memcached, HTTPS), publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
-
-
-🛠️ Tecnologias
-
-Infraestrutura: Linux · SSH · AWS EC2 · Apache · MySQL · VirtualBox
-
-Ferramentas: Git · GitHub · Shell Script
-
-Desenvolvimento: Java · JavaScript · HTML · CSS · Python
-
-Contato: [LinkedIn](https://www.linkedin.com/in/thiagolacerdafreitas)
+## 📫 Contatos
+[LinkedIn](https://www.linkedin.com/in/thiagolacerdafreitas)
