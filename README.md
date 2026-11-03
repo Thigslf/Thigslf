@@ -11,7 +11,7 @@ Trainee de Infraestrutura | Linux · DevOps · Infraestrutura para IA
 
 ## 🔧 Projeto em destaque
 
-**[devops]((https://github.com/Thigslf/devops-labs))** — laboratórios do trainee documentados passo a passo:
+**[devops](https://github.com/Thigslf/devops-labs)** — laboratórios do trainee documentados passo a passo:
 instalação do SEI/SIP em Amazon Linux 2 (Apache, PHP, MySQL, Solr, Memcached, HTTPS),
 publicação de aplicação PHP em VM, cron, troubleshooting e Docker na AWS.
 
